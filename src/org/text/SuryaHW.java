@@ -14,7 +14,9 @@ public class SuryaHW {
 	System.out.println();
 	System.out.println("bonus of surgeon is"+ s.bonus);
 	System.out.println("hi Greens");
-		
+	System.out.println("Hi All");
+
+	
 	}
 
 }
