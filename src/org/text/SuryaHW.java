@@ -13,6 +13,7 @@ public class SuryaHW {
 	System.out.println("Salary of surgeon is"+ s.salary);	
 	System.out.println();
 	System.out.println("bonus of surgeon is"+ s.bonus);
+	System.out.println("hi Greens");
 		
 	}
 
